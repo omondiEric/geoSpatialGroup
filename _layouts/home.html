@@ -75,19 +75,19 @@ layout: default
       </div>
     </section>
 
-    <!-- About -->
-    <section id="about">
+    <!-- Team contract -->
+    <section id="contract">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">{{ site.data.home.about.heading }}</h2>
-            <h3 class="section-subheading text-muted">{{ site.data.home.about.subheading  }}</h3>
+            <h2 class="section-heading text-uppercase">{{ site.data.home.contract.heading }}</h2>
+            <h3 class="section-subheading text-muted">{{ site.data.home.contract.subheading  }}</h3>
           </div>
         </div>
         <div class="row">
           <div class="col-lg-12">
             <ul class="timeline">
-              {%- for time in site.data.home.about.timeline -%}
+              {%- for time in site.data.home.contract.timeline -%}
               {% assign ws = '' %}
               <li{% cycle '', ' class="timeline-inverted"' %}>
                 <div class="timeline-image">
@@ -107,9 +107,9 @@ layout: default
               {% assign ws = '' %}
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <h4>{{ site.data.home.about.end1 }}
-                    <br>{{ site.data.home.about.end2 }}
-                    <br>{{ site.data.home.about.end3 }}</h4>
+                  <h4>{{ site.data.home.contract.end1 }}
+                    <br>{{ site.data.home.contract.end2 }}
+                    <br>{{ site.data.home.contract.end3 }}</h4>
                 </div>
               </li>
             </ul>
