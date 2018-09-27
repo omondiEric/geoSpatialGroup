@@ -9,9 +9,9 @@ proposal:
   proposal:
     - text: the main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...
 
-portfolio:
-  heading: Portfolio
-  subheading: Subheading, if we need it.
+#portfolio:
+ # heading: Portfolio
+  #subheading: Subheading, if we need it.
 
 contract:
   heading: Team contract (will change pictures)
@@ -39,7 +39,7 @@ contract:
   end3: Soon!
 
 team:
-  heading: Team
+  heading: Team (will change pictures)
   subheading: Know more about the geospatial team.
   members:
     - name: Julia Kawano
