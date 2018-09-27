@@ -38,8 +38,8 @@ contract:
   end2: Of Our
   end3: Story!
 
-Team:
-  heading: Team members
+team:
+  heading: Team
   subheading: Know more about the geospatial team.
   members:
     - name: Julia Kawano
