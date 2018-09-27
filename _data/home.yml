@@ -17,23 +17,27 @@ contract:
   heading: Team contract (will change pictures)
   subheading: Every team member strives to live by these rules.
   contract:
-    #- image: img/about/1.jpg
-      #date: 2009-2011
     - title: Preliminary information
-      text: Team member's details can be found on the team page.
+      text: Team member's details can be found on the team page.    
+    - title: Guiding principles
+      text: will go here      
     - title: Guiding principles
       text: will go here
-    #- image: img/about/2.jpg
-      #date: March 2011
-    - title: Guiding principles
-      text: will go here
-    #- image: img/about/3.jpg
-      #date: December 2012
     - title: Preliminary focus on purpose
       text: will go here
-    #- image: img/about/4.jpg
-      #date: July 2014
     - title: Group roles
+      text: will be here
+    - title: Division of labour
+      text: will be here
+    - title: Developing a team plan
+      text: will be here      
+    - title: Meeting management
+      text: will be here      
+    - title: Accountability process
+      text: will be here      
+    - title: Rewards and punishment
+      text: will be here
+    - title: Follow up
       text: will be here
 
   end1: more to 
