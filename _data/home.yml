@@ -64,7 +64,7 @@ team:
         - icon: fa fa-linkedin
           url: "#"
 
-    - name: [Steven Omondi](https://omondieric.github.io/projectProposal/)
+    - name: Steven Omondi #:(https://omondieric.github.io/projectProposal/)
       role: Designer
       img: img/team/3.jpg
       social-buttons:
