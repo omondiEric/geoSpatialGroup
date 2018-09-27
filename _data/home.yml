@@ -14,7 +14,7 @@ proposal:
   #subheading: Subheading, if we need it.
 
 contract:
-  heading: Team contract (will change pictures)
+  heading: Team contract
   subheading: Every team member strives to live by these rules.
   contract:
     - title: Preliminary information
@@ -45,7 +45,7 @@ contract:
   end3: Soon!
 
 team:
-  heading: Team (will change pictures)
+  heading: Team
   subheading: Know more about the geospatial team.
   members:
     - name: Julia Kawano (jkk2)
