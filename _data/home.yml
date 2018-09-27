@@ -15,7 +15,7 @@ portfolio:
 
 contract:
   heading: Team contract
-  subheading: Every team member strives to live by these rules:
+  subheading: Every team member strives to live by these rules.
   timeline:
     - image: img/about/1.jpg
       date: 2009-2011
