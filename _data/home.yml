@@ -1,6 +1,6 @@
 intro:
   lead-in: "Geospatial"
-  heading: Find out more about the space you are in.
+  heading: Find out more about the space you are in
   btn: Tell Me More
 
 proposal:
@@ -18,9 +18,9 @@ contract:
   subheading: Every team member strives to live by these rules.
   contract:
     - title: Preliminary information
-      text: Team member's details can be found on the team page.    
+      text: Team member's details can be found on the team page.
     - title: Guiding principles
-      text: will go here      
+      text: will go here
     - title: Guiding principles
       text: will go here
     - title: Preliminary focus on purpose
@@ -30,17 +30,17 @@ contract:
     - title: Division of labour
       text: will be here
     - title: Developing a team plan
-      text: will be here      
+      text: will be here
     - title: Meeting management
-      text: will be here      
+      text: will be here
     - title: Accountability process
-      text: will be here      
+      text: will be here
     - title: Rewards and punishment
       text: will be here
     - title: Follow up
       text: will be here
 
-  end1: more to 
+  end1: more to
   end2: be added
   end3: Soon!
 
@@ -52,11 +52,11 @@ team:
       role: Designer
       img: img/team/kawano.jpg
       social-buttons:
-        - icon: fa fa-facebook
+        - icon: fa fa-usercircle
           url: "https://www.facebook.com/julia.kawano.1"
         - icon: fa fa-linkedin # This is a link to individual project page
-          url: "#"
-        
+          url: "https://jkkawano.github.io/jkawano-cs376"
+
     - name: Linda Zeng (lz2)
       role: Designer
       img: img/team/linda.jpg
@@ -75,7 +75,7 @@ team:
         - icon: fa fa-linkedin # This is a link to individual project page
           url: "https://omondieric.github.io/projectProposal/"
 
-  text: 
+  text:
 
 #Team contract:
  # heading: Team contract
