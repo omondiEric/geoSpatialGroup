@@ -85,10 +85,13 @@ layout: default
             <ul class="timeline">
               {%- for time in site.data.home.contract.timeline -%}
               {% assign ws = '' %}
+              
+              <!--
               <li{% cycle '', ' class="timeline-inverted"' %}>
                 <div class="timeline-image">
                   <img class="rounded-circle img-fluid" src="{{ assets_path }}{{ time.image }}" alt="">
-                </div>
+                </div> -->
+                
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>{{ time.date }}</h4>
@@ -98,16 +101,21 @@ layout: default
                     <p class="text-muted">{{ time.text  }}</p>
                   </div>
                 </div>
-              </li>
+              <!--  
+              </li> -->
+              
               {%- endfor -%}
               {% assign ws = '' %}
+              
+              <!--
               <li class="timeline-inverted">
                 <div class="timeline-image">
                   <h4>{{ site.data.home.contract.end1 }}
                     <br>{{ site.data.home.contract.end2 }}
                     <br>{{ site.data.home.contract.end3 }}</h4>
                 </div>
-              </li>
+              </li> -->
+              
             </ul>
           </div>
         </div>
