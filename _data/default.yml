@@ -3,15 +3,15 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Services
+  - title: proposal
     url: '#services'
   - title: Portfolio
     url: '#portfolio'
   - title: About
     url: '#about'
-  - title: Team
+  - title: Members
     url: '#team'
-  - title: Contact
+  - title: Team Contract
     url: '#contact'
 
 copyright: Copyright &copy; Your Website 2018
