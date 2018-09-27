@@ -52,9 +52,9 @@ team:
       role: Designer
       img: img/team/kawano.jpg
       social-buttons:
-        - icon: fa fa-usercircle
-          url: "https://www.facebook.com/julia.kawano.1"
-        - icon: fa fa-linkedin # This is a link to individual project page
+        - icon: fa fa-facebook
+          url: "#"
+        - icon: fa user # This is a link to individual project page
           url: "https://jkkawano.github.io/jkawano-cs376"
 
     - name: Linda Zeng (lz2)
