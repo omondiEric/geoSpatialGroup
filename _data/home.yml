@@ -14,7 +14,7 @@ portfolio:
   subheading: Subheading, if we need it.
 
 contract:
-  heading: Team contract
+  heading: Team contract (will change pictures)
   subheading: Every team member strives to live by these rules.
   timeline:
     - image: img/about/1.jpg
@@ -34,9 +34,9 @@ contract:
       title: Group roles
       text: will be here
 
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
+  end1: more to 
+  end2: will be added
+  end3: Soon!
 
 team:
   heading: Team
