@@ -30,10 +30,6 @@ layout: default
           {%- for proposal in site.data.home.proposal.proposal -%}
           {% assign ws = '' %}
           <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-              <i class="{{ proposal.icon }} fa-stack-1x fa-inverse"></i>
-            </span>
             <h4 class="proposal-heading">{{ proposal.heading }}</h4>
             <p class="text-muted">{{ proposal.text }}</p>
           </div>
