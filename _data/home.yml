@@ -1,6 +1,6 @@
 intro:
-  lead-in: "Welcome To Our Studio!"
-  heading: It's Nice To Meet You
+  lead-in: "Geospatial"
+  heading: some nice phrase
   btn: Tell Me More
 
 proposal:
@@ -15,7 +15,7 @@ portfolio:
 
 contract:
   heading: Team contract
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Every team member strives to live by these rules:
   timeline:
     - image: img/about/1.jpg
       date: 2009-2011
@@ -38,12 +38,12 @@ contract:
   end2: Of Our
   end3: Story!
 
-Members:
+Team:
   heading: Team members
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Know more about the geospatial team:
   members:
-    - name: Kay Garland
-      role: Lead Designer
+    - name: Julia Kawano
+      role: Designer
       img: img/team/1.jpg
       social-buttons:
         - icon: fa fa-twitter
@@ -53,8 +53,8 @@ Members:
         - icon: fa fa-linkedin
           url: "#"
         
-    - name: Larry Parker
-      role: Lead Marketer
+    - name: Linda Zheng
+      role: Designer
       img: img/team/2.jpg
       social-buttons:
         - icon: fa fa-twitter
@@ -64,8 +64,8 @@ Members:
         - icon: fa fa-linkedin
           url: "#"
 
-    - name: Diana Pertersen
-      role: Lead Developer
+    - name: Steven Omondi
+      role: Designer
       img: img/team/3.jpg
       social-buttons:
         - icon: fa fa-twitter
@@ -76,16 +76,6 @@ Members:
           url: "#"
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
-
-clients:
-  - img: img/logos/envato.jpg
-    url: "#"
-  - img: img/logos/designmodo.jpg
-    url: "#"
-  - img: img/logos/themeforest.jpg
-    url: "#"
-  - img: img/logos/creative-market.jpg   
-    url: "#"
 
 Team contract:
   heading: Team contract
