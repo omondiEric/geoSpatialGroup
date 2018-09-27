@@ -5,14 +5,14 @@ menu-string: Menu
 nav:
   - title: proposal
     url: '#proposal'
-  - title: Portfolio
-    url: '#portfolio'
+  #- title: Portfolio
+   # url: '#portfolio'
   - title: Team contract
     url: '#contract'
   - title: Team
     url: '#team'
-  - title: Contact
-    url: '#contact'
+  #- title: Contact
+   # url: '#contact'
 
 copyright: Copyright &copy; Your Website 2018
 
