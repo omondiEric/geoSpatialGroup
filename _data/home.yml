@@ -14,8 +14,8 @@ portfolio:
   heading: Portfolio
   subheading: Lorem ipsum dolor sit amet consectetur.
 
-about:
-  heading: About
+contract:
+  heading: Team contract
   subheading: Lorem ipsum dolor sit amet consectetur.
   timeline:
     - image: img/about/1.jpg
