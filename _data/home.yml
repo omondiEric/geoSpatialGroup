@@ -40,7 +40,7 @@ contract:
 
 Team:
   heading: Team members
-  subheading: Know more about the geospatial team:
+  subheading: Know more about the geospatial team.
   members:
     - name: Julia Kawano
       role: Designer
