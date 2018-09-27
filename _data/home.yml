@@ -16,7 +16,7 @@ proposal:
 contract:
   heading: Team contract (will change pictures)
   subheading: Every team member strives to live by these rules.
-  timeline:
+  contract:
     - image: img/about/1.jpg
       #date: 2009-2011
       title: Preliminary information
