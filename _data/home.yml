@@ -5,34 +5,34 @@ intro:
 
 proposal:
   heading: Proposal
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Subheading, if we need it.
   proposal:
     - text: the main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...The main focus of our group was...
 
 portfolio:
   heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Subheading, if we need it.
 
 contract:
   heading: Team contract
   subheading: Every team member strives to live by these rules.
   timeline:
     - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      #date: 2009-2011
+      title: Preliminary information
+      text: Team member's details can be found on the team page.
     - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      #date: March 2011
+      title: Guiding principles
+      text: will go here
     - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      #date: December 2012
+      title: Preliminary focus on purpose
+      text: will go here
     - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      #date: July 2014
+      title: Group roles
+      text: will be here
 
   end1: Be Part
   end2: Of Our
