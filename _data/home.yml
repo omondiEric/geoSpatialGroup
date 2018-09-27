@@ -44,7 +44,7 @@ team:
   members:
     - name: Julia Kawano
       role: Designer
-      img: img/team/1.jpg
+      img: img/team/kawano.jpg
       social-buttons:
         - icon: fa fa-facebook
           url: "https://www.facebook.com/julia.kawano.1"
@@ -53,7 +53,7 @@ team:
         
     - name: Linda Zeng
       role: Designer
-      img: img/team/2.jpg
+      img: img/team/linda.jpg
       social-buttons:
         - icon: fa fa-facebook
           url: "https://www.facebook.com/linda.zeng.7543"
@@ -62,7 +62,7 @@ team:
 
     - name: Steven Omondi #:(https://omondieric.github.io/projectProposal/)
       role: Designer
-      img: img/team/3.jpg
+      img: img/team/steve.jpg
       social-buttons:
         - icon: fa fa-facebook
           url: "https://www.facebook.com/steve.eric.39"
