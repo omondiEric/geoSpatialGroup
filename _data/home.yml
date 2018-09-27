@@ -42,7 +42,7 @@ team:
   heading: Team (will change pictures)
   subheading: Know more about the geospatial team.
   members:
-    - name: Julia Kawano
+    - name: Julia Kawano (jkk2)
       role: Designer
       img: img/team/kawano.jpg
       social-buttons:
@@ -51,7 +51,7 @@ team:
         - icon: fa fa-linkedin # This is a link to individual project page
           url: "#"
         
-    - name: Linda Zeng
+    - name: Linda Zeng (lz2)
       role: Designer
       img: img/team/linda.jpg
       social-buttons:
@@ -60,7 +60,7 @@ team:
         - icon: fa fa-linkedin # This is a link to individual project page
           url: "#"
 
-    - name: Steven Omondi #:(https://omondieric.github.io/projectProposal/)
+    - name: Steven Omondi (seo1)
       role: Designer
       img: img/team/steve.jpg
       social-buttons:
