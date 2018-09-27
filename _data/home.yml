@@ -3,8 +3,8 @@ intro:
   heading: It's Nice To Meet You
   btn: Tell Me More
 
-services:
-  heading: Services
+proposal:
+  heading: Proposal
   subheading: Lorem ipsum dolor sit amet consectetur.
   service:
     - icon: fa fa-shopping-cart
@@ -46,8 +46,8 @@ about:
   end2: Of Our
   end3: Story!
 
-team:
-  heading: Our Amazing Team
+Members:
+  heading: Team members
   subheading: Lorem ipsum dolor sit amet consectetur.
   members:
     - name: Kay Garland
@@ -95,8 +95,8 @@ clients:
   - img: img/logos/creative-market.jpg   
     url: "#"
 
-contact:
-  heading: Contact Us
+Team contract:
+  heading: Team contract
   subheading: Lorem ipsum dolor sit amet consectetur.
   name: Your Name *
   name-required: Please enter your name.
