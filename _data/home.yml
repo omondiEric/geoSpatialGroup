@@ -7,7 +7,7 @@ proposal:
   heading: Proposal
   subheading: Lorem ipsum dolor sit amet consectetur.
   proposal:
-    - The main focus of our group was...
+    - text: The main focus of our group was...
     - icon: fa fa-shopping-cart
       heading: E-Commerce
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
