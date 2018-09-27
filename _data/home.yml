@@ -36,7 +36,11 @@ contract:
     - title: Accountability process
       text: will be here
     - title: Rewards and punishment
-      text: will be here
+      text:
+        - We will celebrate our successes and recognize the work that brought us to that point, acknowledging the individual contributions of each team member
+        - We will give each other critique never to tear each other down, but to build up our collective project
+        - We will receive critique with an open mind and knowing that we are working to the same goal as our teammates
+
     - title: Follow up
       text: will be here
 
@@ -54,7 +58,7 @@ team:
       social-buttons:
         - icon: fa fa-facebook
           url: "#"
-        - icon: fa user # This is a link to individual project page
+        - icon: fa fa-user # This is a link to individual project page
           url: "https://jkkawano.github.io/jkawano-cs376"
 
     - name: Linda Zeng (lz2)
