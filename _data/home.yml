@@ -21,6 +21,8 @@ contract:
       #date: 2009-2011
       title: Preliminary information
       text: Team member's details can be found on the team page.
+      title: Guiding principles
+      text: will go here
     - image: img/about/2.jpg
       #date: March 2011
       title: Guiding principles
@@ -69,22 +71,22 @@ team:
         - icon: fa fa-linkedin # This is a link to individual project page
           url: "https://omondieric.github.io/projectProposal/"
 
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+  text: 
 
-Team contract:
-  heading: Team contract
-  subheading: Lorem ipsum dolor sit amet consectetur.
-  name: Your Name *
-  name-required: Please enter your name.
-  email: Your Email *
-  email-required: Please enter your email address.
-  phone: Your Phone *
-  phone-required: Please enter your phone number.
-  message: Your Message *
-  message-required: Please enter a message.
-  btn: Send Message
+#Team contract:
+ # heading: Team contract
+ # subheading: Lorem ipsum dolor sit amet consectetur.
+ # name: Your Name *
+ # name-required: Please enter your name.
+ # email: Your Email *
+ # email-required: Please enter your email address.
+ # phone: Your Phone *
+  #phone-required: Please enter your phone number.
+ # message: Your Message *
+ # message-required: Please enter a message.
+ # btn: Send Message
 
-  js-url: '././mail/contact_me.php'
-  js-success: 'Your message has been sent. '
-  js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
-  js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
+  #js-url: '././mail/contact_me.php'
+  #js-success: 'Your message has been sent. '
+  #js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
+  #js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
