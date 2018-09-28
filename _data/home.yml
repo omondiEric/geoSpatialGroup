@@ -4,9 +4,9 @@ intro:
   btn: Tell Me More
 
 proposal:
+  img: /img/logos/themeforest.jpg
   heading: Proposal
   subheading: Motivation/problem
-  img: /img/logos/themeforest.jpg
   proposal:
     - text: Have you ever used something and wanted to know more about how what you are using came to be, but this information was not readily available? 
             Our team members got together and realised how answering this question, with a focus on museums, can positively add to the user experience, 
