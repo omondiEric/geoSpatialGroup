@@ -75,21 +75,11 @@ layout: default
         <div class="row text-center">
           {%- for contract in site.data.home.contract.contract -%}
           {% assign ws = '' %}
-          <div class="col-md-12">
-            
+          <div class="col-md-12"> 
             <div class="contract-heading">
               <h4 class="subheading">{{ contract.title }}</h4>
                 <p class="text-muted">{{ contract.text  }}</p>
               </div>
-                <!--
-                <div class="contract-body">
-                  
-                </div> --.
-            
-            
-            
-            <!--<h4 class="contract-heading">{{ contract.heading }}</h4> -->
-            <!--<p class="text-muted">{{ contract.text }}</p> -->
           </div> 
           {%- endfor -%}
         {% assign ws = '' %}
