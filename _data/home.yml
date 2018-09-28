@@ -22,7 +22,11 @@ proposal:
             as a timeline for easy comparison between time periods of their choice. Think of it as the museum itself being an installation that the users can explore to help them better 
             understand the space they are in.
 
-
+contextual:
+  heading: Contextual Inquiry
+  subheading: CI
+  contextual:
+    - text: this will be here
       
 
 contract:
