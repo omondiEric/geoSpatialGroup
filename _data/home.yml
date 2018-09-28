@@ -20,10 +20,9 @@ contract:
     - title: Preliminary information
       text: Team member's details can be found on the team page.
     - title: Guiding principles
-      text:
-Have respect for each other, our ideas, and our time\n
+      text: 'Have respect for each other, our ideas, and our time\n
 Be open to hearing and sharing with the team\n
-Work together and support each other
+Work together and support each other'
     - title: Preliminary focus on purpose
       text: will go here
     - title: Group roles
