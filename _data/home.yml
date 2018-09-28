@@ -34,15 +34,17 @@ contract:
     - title: Meeting management
       text: will be here
     - title: Accountability process
-      text: will be here
-    - title: Rewards and punishment
-      text:
-        - We will celebrate our successes and recognize the work that brought us to that point, acknowledging the individual contributions of each team member
-        - We will give each other critique never to tear each other down, but to build up our collective project
-        - We will receive critique with an open mind and knowing that we are working to the same goal as our teammates
+      text: Primarily we will hold ourselves accountable for completing our assigned tasks within the given timeframe.
 
+        Tasks will always be assigned with a date by which they should be completed. If a date is not specified, it is the responsibility of the assignee to follow up with the group to decide on a deadline.
+    - title: Rewards and punishment
+      text: We will celebrate our successes and recognize the work that brought us to that point, acknowledging the individual contributions of each team member.
+
+        We will give each other critique never to tear each other down, but to build up our collective project.
+
+        We will receive critique with an open mind and knowing that we are working to the same goal as our teammates.
     - title: Follow up
-      text: will be here
+      text: We keep this contract as a living document to which any member of the team may bring up revisions at any time. Changes will be made upon approval by all members of the group.
 
   end1: more to
   end2: be added
@@ -67,7 +69,7 @@ team:
       social-buttons:
         - icon: fa fa-facebook
           url: "https://www.facebook.com/linda.zeng.7543"
-        - icon: fa fa-linkedin # This is a link to individual project page
+        - icon: fa fa-user # This is a link to individual project page
           url: "#"
 
     - name: Steven Omondi (seo1)
@@ -76,7 +78,7 @@ team:
       social-buttons:
         - icon: fa fa-facebook
           url: "https://www.facebook.com/steve.eric.39"
-        - icon: fa fa-linkedin # This is a link to individual project page
+        - icon: fa fa-user # This is a link to individual project page
           url: "https://omondieric.github.io/projectProposal/"
 
   text:
