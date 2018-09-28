@@ -8,6 +8,7 @@ proposal:
   heading: Proposal
   subheading: Motivation/problem
   proposal:
+    img: img/geospatial.jpg
     - text: Have you ever used something and wanted to know more about how it came to be, but this information was not readily available? 
             Our team members got together and realised that answering this question, with a focus on museums, can positively add to the user experience, 
             and help them appreciate their physical surroundings even more. If you walk into a museum today, all you're most likely to see are the installations it has. 
