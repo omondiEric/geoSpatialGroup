@@ -14,7 +14,7 @@ proposal:
             But these installations were never just placed randomly. Someone, or even teams took time to carefully decide what went where, or what was fit to be included
             as part of the museum. Some of the pieces have been there from the start, while some have constantly been changed. This is an untold story, the museum’s story, 
             which we think should be explored.
-            Solution
+    - text: Solution
             Our team proposes developing a program that will work with any smart device, that is bluetooth or wifi enabled. The program will have a database that will contain 
             historical information about the museum itself, dating back to the earliest records available. Both visitors and stuff will be able to access information on how the 
             the galleries in the museum have changed over time. From the kind of installations the museum had, to their arrangement, down to what inspired the museum to make certain 
