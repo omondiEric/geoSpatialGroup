@@ -53,11 +53,11 @@ contract:
   subheading: Every team member strives to live by these rules.
   contract:
     - title: Preliminary information
-        - text: Team member's details can be found on the team page.
+       text: Team member's details can be found on the team page.
     - title: Guiding principles
       text: 'Have respect for each other, our ideas, and our time
-        Be open to hearing and sharing with the team
-        Work together and support each other'
+             Be open to hearing and sharing with the team
+             Work together and support each other'
     - title: Preliminary focus on purpose
       text: Create an informed design with significant evidence to demonstrate that it would be enjoyed by potential users.
     - title: Group roles
