@@ -8,9 +8,9 @@ proposal:
   heading: Proposal
   subheading: Motivation/problem
   proposal:
-    - text: Have you ever used something and wanted to know more about how what you are using came to be, but this information was not readily available? 
-            Our team members got together and realised how answering this question, with a focus on museums, can positively add to the user experience, 
-            and help them appreciate their physical surroundings even more. If you walk into a museum today, all your most likely to see are the installations it has. 
+    - text: Have you ever used something and wanted to know more about how it came to be, but this information was not readily available? 
+            Our team members got together and realised that answering this question, with a focus on museums, can positively add to the user experience, 
+            and help them appreciate their physical surroundings even more. If you walk into a museum today, all you're most likely to see are the installations it has. 
             But these installations were never just placed randomly. Someone, or even teams took time to carefully decide what went where, or what was fit to be included
             as part of the museum. Some of the pieces have been there from the start, while some have constantly been changed. This is an untold story, the museum’s story, 
             which we think should be explored.
@@ -24,7 +24,7 @@ proposal:
 
 contextual:
   heading: Contextual Inquiry
-  subheading: 
+  subheading: Learning about how others learn
   contextual:
     - text: The people who would be interested in our design would be WCMA staff who are interested in expanding the number of 
             museum visitors and WCMA team members who want to provide a more meaningful experience for visitors. The WCMA staff 
