@@ -1,0 +1,10 @@
+// Styling for the services section
+.service-heading {
+  margin: 15px 0;
+  text-transform: none;
+  img {
+    width: 225px;
+    height: 225px;
+    border: 7px solid $white;
+  }
+}
