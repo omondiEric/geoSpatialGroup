@@ -20,32 +20,48 @@ contract:
     - title: Preliminary information
       text: Team member's details can be found on the team page.
     - title: Guiding principles
-      text: 'Have respect for each other, our ideas, and our time\n
-Be open to hearing and sharing with the team\n
+      text: 'Have respect for each other, our ideas, and our time
+Be open to hearing and sharing with the team
 Work together and support each other'
     - title: Preliminary focus on purpose
-      text: will go here
+      text: Create an informed design with significant evidence to demonstrate that it would be enjoyed by potential users.
     - title: Group roles
-      text: will be here
+      text: We will rotate through roles being flexible with respect to individual skills and schedules.
     - title: Division of labour
-      text: will be here
+      text: Tasks will be divided by the amount of time we anticipate they will take as fairly as possible.
     - title: Developing a team plan
-      text: will be here
+      text: 'All:
+Contribute to brainstorm Google Doc to focus on a joint geospatial museum problem to tackle
+Add personal revisions to Google Docs (contract and group proposal)
+
+Steve:
+Create the Github project page and share with others
+Write up group proposal and add to site
+
+Linda:
+(at Grace Hopper)
+Set up Google Docs
+Assist with contextual inquiry proposal and add to site
+
+Julia:
+Write up contract and add to site
+Assist with contextual inquiry proposal'
     - title: Meeting management
-      text: will be here
+      text:
+        'Meetings in person once a week scheduled through the group chat. We will find a single approximate time that works for everyone's schedule, probably on the weekend.
+Have a purpose for each meeting.
+Begin by recognizing good work accomplished.
+End with clearly assigning specific tasks and deadlines.'
+
     - title: Accountability process
       text: Primarily we will hold ourselves accountable for completing our assigned tasks within the given timeframe.
-
         Tasks will always be assigned with a date by which they should be completed. If a date is not specified, it is the responsibility of the assignee to follow up with the group to decide on a deadline.
     - title: Rewards and punishment
       text: We will celebrate our successes and recognize the work that brought us to that point, acknowledging the individual contributions of each team member.
-
         We will give each other critique never to tear each other down, but to build up our collective project.
-
         We will receive critique with an open mind and knowing that we are working to the same goal as our teammates.
     - title: Follow up
       text: We keep this contract as a living document to which any member of the team may bring up revisions at any time. Changes will be made upon approval by all members of the group.
-
   end1: more to
   end2: be added
   end3: Soon!
