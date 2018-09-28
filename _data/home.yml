@@ -60,13 +60,15 @@ contract:
         We will receive critique with an open mind and knowing that we are working to the same goal as our teammates.
     - title: Follow up
       text: We keep this contract as a living document to which any member of the team may bring up revisions at any time. Changes will be made upon approval by all members of the group.
-  end1: more to
-  end2: be added
-  end3: Soon!
 
 logo:
   heading: Logo
   img: img/logos/geospatial.png
+
+  end1: more to
+  end2: be added
+  end3: Soon!
+
 
 team:
   heading: Team
