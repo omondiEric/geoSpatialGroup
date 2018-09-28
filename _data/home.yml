@@ -5,10 +5,9 @@ intro:
 
 proposal:
   heading: Proposal
-  subheading: Subheading, if we need it.
+  subheading: Motivation/problem
   proposal:
-    - text: Motivation/problem
-            Have you ever used something and wanted to know more about how what you are using came to be, but this information was not readily available? 
+    - text: Have you ever used something and wanted to know more about how what you are using came to be, but this information was not readily available? 
             Our team members got together and realised how answering this question, with a focus on museums, can positively add to the user experience, 
             and help them appreciate their physical surroundings even more. If you walk into a museum today, all your most likely to see are the installations it has. 
             But these installations were never just placed randomly. Someone, or even teams took time to carefully decide what went where, or what was fit to be included
