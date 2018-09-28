@@ -65,15 +65,15 @@ contract:
     - title: Division of labour
       text: Tasks will be divided by the amount of time we anticipate they will take as fairly as possible.
     - title: Developing a team plan
-      text: 'All:
-          Contribute to brainstorm Google Doc to focus on a joint geospatial museum problem to tackle
-          Add personal revisions to Google Docs (contract and group proposal)
+      text: All - 
+            Contribute to brainstorm Google Doc to focus on a joint geospatial museum problem to tackle
+            Add personal revisions to Google Docs (contract and group proposal)
 
-          Steve:
+      text: Steve - 
             Create the Github project page and share with others
             Write up group proposal and add to site
 
-          Linda:
+          'Linda:
             (at Grace Hopper)
             Set up Google Docs
             Assist with contextual inquiry proposal and add to site
