@@ -109,8 +109,8 @@ team:
       role: Designer
       img: img/team/kawano.jpg
       social-buttons:
-        - icon: fa fa-facebook
-          url: "#"
+        #- icon: fa fa-facebook
+          #url: "#"
         - icon: fa fa-user # This is a link to individual project page
           url: "https://jkkawano.github.io/jkawano-cs376"
 
@@ -118,8 +118,8 @@ team:
       role: Designer
       img: img/team/linda.jpg
       social-buttons:
-        - icon: fa fa-facebook
-          url: "#"
+        #- icon: fa fa-facebook
+         # url: "#"
         - icon: fa fa-user # This is a link to individual project page
           url: "https://lzeng27.github.io"
 
@@ -127,8 +127,8 @@ team:
       role: Designer
       img: img/team/steve.jpg
       social-buttons:
-        - icon: fa fa-facebook
-          url: "https://www.facebook.com/steve.eric.39"
+        #- icon: fa fa-facebook
+         # url: "https://www.facebook.com/steve.eric.39"
         - icon: fa fa-user # This is a link to individual project page
           url: "https://omondieric.github.io/projectProposal/"
 
