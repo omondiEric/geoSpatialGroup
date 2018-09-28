@@ -5,7 +5,7 @@ menu-string: Menu
 nav:
   - title: proposal
     url: '#proposal'
-  - title: Contextual
+  - title: contextual
     url: '#contextual'
   - title: Team contract
     url: '#contract'
