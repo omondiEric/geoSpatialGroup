@@ -64,6 +64,10 @@ contract:
   end2: be added
   end3: Soon!
 
+logo:
+  heading: Logo
+  img: img/logos/geospatial.png
+
 team:
   heading: Team
   subheading: Know more about the geospatial team.
