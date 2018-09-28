@@ -6,6 +6,7 @@ intro:
 proposal:
   heading: Proposal
   subheading: Motivation/problem
+  img: /img/logos/geospatial.png
   proposal:
     - text: Have you ever used something and wanted to know more about how what you are using came to be, but this information was not readily available? 
             Our team members got together and realised how answering this question, with a focus on museums, can positively add to the user experience, 
@@ -14,11 +15,7 @@ proposal:
             as part of the museum. Some of the pieces have been there from the start, while some have constantly been changed. This is an untold story, the museum’s story, 
             which we think should be explored. 
 
-      img: /img/logos/geospatial.png
-
-#portfolio:
- # heading: Portfolio
-  #subheading: Subheading, if we need it.
+      
 
 contract:
   heading: Team contract
