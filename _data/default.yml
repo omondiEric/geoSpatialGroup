@@ -1,16 +1,16 @@
 brand:
-  name: Geospatial
+  name: Where You Art
 menu-string: Menu
 
 nav:
-  - title: proposal
-    url: '#proposal'
-  - title: contextual
-    url: '#contextual'
-  - title: Team contract
-    url: '#contract'
-  - title: Team
-    url: '#team'
+  - title: index
+    url: "index"
+#  - title: contextual
+#    url: '#contextual'
+#  - title: Team contract
+#    url: '#contract'
+#  - title: Team
+#    url: '#team'
   #- title: Contact
    # url: '#contact'
 
