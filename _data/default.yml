@@ -9,8 +9,8 @@ nav:
 #    url: '#contextual'
 #  - title: Team contract
 #    url: '#contract'
-#  - title: Team
-#    url: '#team'
+  - title: Team
+    url: '#team'
   #- title: Contact
    # url: '#contact'
 
